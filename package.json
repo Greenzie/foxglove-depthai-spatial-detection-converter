@@ -1,6 +1,6 @@
 {
   "name": "depthai-spatial-detection-converter",
-  "displayName": "depthai-spatial-detection-converter",
+  "displayName": "DepthAI Spatial Detection Converter",
   "description": "Converts ROS1 depthai_ros_msgs/SpatialDetectionArray to the Foxglove Image Annotations schema",
   "publisher": "Greenzie Inc",
   "homepage": "https://www.greenzie.com",
